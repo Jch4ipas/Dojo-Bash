@@ -189,3 +189,5 @@ html {
   }
   
 " > styles.css
+
+# Le code html et css viens de https://codepen.io/blackellis/pen/zYveXEW
